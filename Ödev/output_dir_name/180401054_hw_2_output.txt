@@ -1,0 +1,2 @@
+ortalama:44
+medyan:45
